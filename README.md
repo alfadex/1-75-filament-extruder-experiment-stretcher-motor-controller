@@ -8,3 +8,5 @@ The aim is to have a constant 1.75mm filanet width.
 
 The idea is, when width is for example 1.2mm, then i have to slow down strecher motor speed, so that filament to be thicker close to 1.75mm and when width is for example
 1.9mm motor speed should be higher so that filament get thinner.
+
+You can see a video a his inintial stage https://www.youtube.com/watch?v=6UCiZd1d8qo
